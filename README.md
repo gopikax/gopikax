@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gopikax
+- 👀 I’m interested in space and tech
+- 🌱 I’m currently learning python
+- 😄 Pronouns: she/her
